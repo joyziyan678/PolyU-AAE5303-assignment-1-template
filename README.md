@@ -8,22 +8,18 @@
 ## 1. System Information
 
 **Laptop model:**  
-_[Your laptop model, e.g., Dell XPS 15, MacBook Pro M1, etc.]_
+Lenovo XiaoXinPro 16ACH 2021
 
 **CPU / RAM:**  
-_[e.g., Intel Core i7-11800H, 16GB RAM]_
+AMD Ryzen 7 5800H with Radeon Graphics          (3.20 GHz)
+16.0 GB (13.9 GB 可用)
 
 **Host OS:**  
-_[Windows 11 / macOS / Ubuntu 22.04]_
+Windows 11
 
 **Linux/ROS environment type:**  
 _[Choose one:]_
-- [ ] Dual-boot Ubuntu
-- [ ] WSL2 Ubuntu
-- [ ] Ubuntu in VM (UTM/VirtualBox/VMware/Parallels)
-- [ ] Docker container
-- [ ] Lab PC
-- [ ] Remote Linux server
+WSL2 Ubuntu
 
 ---
 
