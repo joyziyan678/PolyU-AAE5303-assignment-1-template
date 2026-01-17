@@ -1,4 +1,4 @@
-# AAE5303 Environment Setup Report — Template for Students
+# AAE5303 Environment Setup Report
 
 > **Important:** Follow this structure exactly in your submission README.  
 > Your goal is to demonstrate **evidence, process, problem-solving, and reflection** — not only screenshots.
